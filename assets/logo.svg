@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="MK monogram logo">
+  <defs><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f0c75e"/><stop offset="1" stop-color="#b87916"/></linearGradient></defs>
+  <rect x="3" y="3" width="94" height="94" rx="20" fill="#fff" stroke="#e9edf4" stroke-width="2"/>
+  <path d="M15 76V24h11l18 27 18-27h10v52H60V43L44 66 28 43v33z" fill="#07183e"/>
+  <path d="M67 24h12v22l14-22H80L65 45v31h12V59l4-5 12 22H79L72 60l-5 7z" fill="url(#gold)"/>
+</svg>
